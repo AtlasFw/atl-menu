@@ -1,3 +1,3 @@
 # atl-menu
 
-The atlas framework menu.
+The Atlas framework menu.
